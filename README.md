@@ -14,9 +14,3 @@ flutter run
 <img src = "https://github.com/hmoeedirfan/food-delivery-app/assets/99192107/6a8fc8a4-bea1-411e-b3ed-b2390f1200a0" height = 500>&nbsp;
 <img src = "https://github.com/hmoeedirfan/food-delivery-app/assets/99192107/82fef382-59ec-422b-b0f1-33811e3d9e57" height = 500>
 
-
-## Links
-
-* [LinkedIn](https://linkedin.com/in/hmoeedirfan)
-* [Twitter](https://twitter.com/hmoeedirfan)
-* [Instagram](https://instagram.com/hmoeedirfan)
